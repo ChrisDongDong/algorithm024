@@ -21,7 +21,7 @@ for {
 	}
 }
 
-if ()  {
+if (first == second )  {
 
 }
 
@@ -39,6 +39,6 @@ int main()
    printf("%s", 'test');
 }
 
-
+// Note:
 
 
