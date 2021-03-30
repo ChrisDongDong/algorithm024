@@ -20,3 +20,25 @@ for {
 		}
 	}
 }
+
+if ()  {
+
+}
+
+
+while {
+
+}
+
+continue;
+break;
+
+
+int main()
+{
+
+}
+
+
+
+
