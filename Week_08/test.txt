@@ -36,7 +36,7 @@ break;
 
 int main()
 {
-
+   printf("%s", 'test');
 }
 
 
