@@ -1,8 +1,4 @@
 for {
-	for {
-		for {
-			for {
-				for {
 					for {
 						for {
 							for {
@@ -20,3 +16,6 @@ for {
 		}
 	}
 }
+
+
+std::cout << "" << std::endl;
