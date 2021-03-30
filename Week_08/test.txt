@@ -17,5 +17,29 @@ for {
 	}
 }
 
+<<<<<<< HEAD
 
 std::cout << "" << std::endl;
+=======
+if ()  {
+
+}
+
+
+while {
+
+}
+
+continue;
+break;
+
+
+int main()
+{
+   printf("%s", 'test');
+}
+
+
+
+
+>>>>>>> test
