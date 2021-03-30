@@ -24,10 +24,14 @@ for {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 std::cout << "" << std::endl;
 =======
 if ()  {
+=======
+if (first == second )  {
+>>>>>>> test
 
 }
 
@@ -45,7 +49,7 @@ int main()
    printf("%s", 'test');
 }
 
-
+// Note:
 
 
 >>>>>>> test
